@@ -1,5 +1,9 @@
-[{"id":1,"loadNumber":40437,"commodity":"Carbonated Water - Orange","weight":18704,"truckNumber":49757},
-{"id":2,"loadNumber":59897,"commodity":"Puree - Kiwi","weight":12898,"truckNumber":56084},
-{"id":3,"loadNumber":15969,"commodity":"Petite Baguette","weight":4056,"truckNumber":51029},
-{"id":4,"loadNumber":39632,"commodity":"Chicken Giblets","weight":34623,"truckNumber":20783},
-{"id":5,"loadNumber":16663,"commodity":"Pork - Inside","weight":37560,"truckNumber":38543}]
+{
+  "loads":[
+  {"id":1,"loadNumber":40437,"commodity":"Carbonated Water - Orange","weight":18704,"truckNumber":49757},
+  {"id":2,"loadNumber":59897,"commodity":"Puree - Kiwi","weight":12898,"truckNumber":56084},
+  {"id":3,"loadNumber":15969,"commodity":"Petite Baguette","weight":4056,"truckNumber":51029},
+  {"id":4,"loadNumber":39632,"commodity":"Chicken Giblets","weight":34623,"truckNumber":20783},
+  {"id":5,"loadNumber":16663,"commodity":"Pork - Inside","weight":37560,"truckNumber":38543}
+  ],
+ }
